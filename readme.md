@@ -1,11 +1,11 @@
-####Object.inArray Extension
+#### Object.inArray Extension
 
-Check if array, object or string for needle
+Check array, object or string for needle, by value and/or index
 
 ----
 
-#####Example:
-```
+###### Example:
+```javascript
 /*
  * @param {mix}    needle       - Search-able needle
  * @param {bool}   searchInKey  - Search needle in keys?
